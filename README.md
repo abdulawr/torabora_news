@@ -5,3 +5,7 @@
 ### Default username and password for admin panel
 - Username - ab@gmail.com
 - Password - 1234
+
+### Preview
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
